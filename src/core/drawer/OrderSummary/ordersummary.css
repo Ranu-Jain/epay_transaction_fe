@@ -1,0 +1,10 @@
+/* mobile component css */
+.amount-mobile{
+  @apply text-xl font-medium self-start
+}
+
+
+/* desktop component css */
+.amount-desktop{
+  @apply text-2xl font-medium self-start
+}

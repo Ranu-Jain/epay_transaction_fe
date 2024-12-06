@@ -1,0 +1,46 @@
+export const basePath = import.meta.env.BASE_URL;
+
+export const bankingIcon = `${basePath}/assets/banking.svg`
+export const cardsIcon = `${basePath}/assets/cards.svg`
+export const googlepayIcon = `${basePath}/assets/google-pay-icon.svg`
+export const phonepayIcon = `${basePath}/assets/phonepe-icon.svg`
+export const upiIcon = `${basePath}/assets/upi.svg`
+export const walletIcon = `${basePath}/assets/wallet.svg`
+export const sbipayIcon = `${basePath}/assets/sbipay.svg`
+export const sbipay = `${basePath}/assets/sbipay.png`
+export const sbilogo = `${basePath}/assets/sbi-logo.png`
+export const backgroundImg = `${basePath}/assets/background.png`
+export const backBtn = `${basePath}/assets/backBtn.svg`
+export const whatsapp = `${basePath}/assets/whatsapp.svg`
+export const paytm = `${basePath}/assets/paytm.svg`
+export const bhim = `${basePath}/assets/bhim.svg`
+export const circleChecked = `${basePath}/assets/circleChecked.svg`
+export const circleError = `${basePath}/assets/circleError.svg`
+export const language = `${basePath}/assets/language.svg`
+export const footerlogo1 = `${basePath}/assets/footer_logo1.png`
+export const footerlogo2 = `${basePath}/assets/footer_logo2.png`
+export const footerlogo3 = `${basePath}/assets/footer_logo3.png`
+export const footerlogo4 = `${basePath}/assets/footer_logo4.png`
+export const downArrow =  `${basePath}/assets/downarrow.svg`
+export const maximizeEdit =  `${basePath}/assets/maximizeEdit.svg`
+export const exclamation=`${basePath}/assets/exclamation-mark.svg`
+export const sbiepay = `${basePath}/assets/sbiepayLogo.svg`
+export const iciciLogo=`${basePath}/assets/icici.svg`
+export const kotakLogo=`${basePath}/assets/Kotak_Mahindra.svg`
+export const sbi_logo=`${basePath}/assets/sbi_logo.svg`
+export const hdfc_logo=`${basePath}/assets/hdfc_logo.svg`
+export const yesBankLogo=`${basePath}/assets/yes_bank.svg`
+export const axisLogo=`${basePath}/assets/axis.svg`
+export const arrowSpinner = `${basePath}/assets/arrowSpinner.svg`
+export const americanExpress = `${basePath}/assets/amex.svg`
+export const discover = `${basePath}/assets/discover.svg`
+export const jcb = `${basePath}/assets/jcb.svg`
+export const masterCard = `${basePath}/assets/mastercard.svg`
+export const visa = `${basePath}/assets/visa.svg`
+export const dinersClub=`${basePath}/assets/diners-club.svg`
+export const visaElectron=`${basePath}/assets/visa-electron.svg`
+export const maestro=`${basePath}/assets/maestro.svg`
+export const rupay=`${basePath}/assets/rupay.svg`
+
+//Order id
+export const ORDER_ID='543a71ab2026353e6b543c5f65d6ac6579db7d2f883caf20345dbf2809812e62708d89c42c1d244d8abd165989705dd9e455a55212b077699ea2ad2202b96eb8'

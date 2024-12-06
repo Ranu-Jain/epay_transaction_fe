@@ -1,0 +1,15 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "baseUrl": ".", // Make sure this points to your source directory
+    "paths": {
+      "@/*": ["./src/*"] // The alias @ will map to the src directory
+    }
+  }
+}

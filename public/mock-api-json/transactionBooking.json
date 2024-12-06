@@ -1,0 +1,151 @@
+{
+  "tranactionBooking": {
+    "orderInfo": {
+      "orderID": "075568dswr234",
+      "MerchantOrderNumber": "12367890",
+      "orderStatus": 1
+    },
+    "customerInfo": {
+      "name": " john",
+      "phoneNumber": "00001230002",
+      "email": "john@gmail.com",
+      "accountNumber": ""
+    },
+    "paymodes": {
+      "preferredOptions": {
+        "UPI": {
+          "apps": [
+            "Google Pay",
+            "Phone Pay",
+            "SBI Pay"
+          ],
+          "vpa": "boolean",
+          "drawerIntent": "boolean"
+        }
+      },
+      "otherPaymentOptions": {
+        "UPI": {
+          "apps": [
+            "Google Pay",
+            "Phone Pay",
+            "SBI Pay",
+            "Paytm",
+            "whatsapp"
+          ],
+          "vpa": "boolean",
+          "drawerIntent": "boolean"
+        },
+        "CARDS": [
+          "CC",
+          "DC"
+        ],
+        "INB": [
+          {
+            "bankName": "ICICI",
+            "bankIconUrl":"/2.0/assets/icici.svg",
+            "downtime": {
+              "status": false,
+              "timestamp": "string (ISO 8601 format)",
+              "errorMessage": "string"
+            },
+            "aggregatorGatewayMapId": "string",
+            "popular": true,
+            "title":"ICICI Bank"
+          },
+          {
+            "bankName": "Axis",
+            "bankIconUrl": "/2.0/assets/axis.svg",
+            "downtime": {
+              "status": false,
+              "timestamp": "string (ISO 8601 format)",
+              "errorMessage": "string"
+            },
+            "aggregatorGatewayMapId": "string",
+            "popular": false,
+            "title":"Axis Bank"
+          },
+          {
+            "bankName": "HDFC",
+            "bankIconUrl":"/2.0/assets/hdfc_logo.svg",
+            "downtime": {
+              "status": true,
+              "timestamp": "string (ISO 8601 format)",
+              "errorMessage": "string"
+            },
+            "aggregatorGatewayMapId": "string",
+            "popular": true,
+            "title":"HDFC Bank"
+          },
+          {
+            "bankName": "SBI",
+            "bankIconUrl":"/2.0/assets/sbi_logo.svg",
+            "downtime": {
+              "status": true,
+              "timestamp": "string (ISO 8601 format)",
+              "errorMessage": "string"
+            },
+            "aggregatorGatewayMapId": "string",
+            "popular": true,
+            "title":"State Bank of India"
+          },
+          {
+            "bankName": "Yes",
+            "bankIconUrl":"/2.0/assets/yes_bank.svg",
+            "downtime": {
+              "status": false,
+              "timestamp": "string (ISO 8601 format)",
+              "errorMessage": "string"
+            },
+            "aggregatorGatewayMapId": "string",
+            "popular": true,
+            "title":"Yes Bank"
+          },
+          {
+            "bankName": "Kotak",
+            "bankIconUrl":"/2.0/assets/Kotak_Mahindra.svg",
+            "downtime": {
+              "status": false,
+              "timestamp": "string (ISO 8601 format)",
+              "errorMessage": "string"
+            },
+            "aggregatorGatewayMapId": "string",
+            "popular": true,
+            "title":"Kotal Mahindra Bank"
+          }
+        ]
+      }
+    },
+    "transactionPayMode": "string",
+    "payModeDetails": {
+      "paymode": "String",
+      "bankId": "UUID",
+      "payproc": "String",
+      "payproctype": "String",
+      "cardType": "string"
+    },
+    "transactionAmount": {
+      "orderAmount": "5,000",
+      "gstAmount": "100",
+      "feesAmount": "100",
+      "chargesAmount": "0",
+      "totalAmount": "5,200"
+    },
+    "merchantInfo": {
+      "mid": "string",
+      "logoUrl": "/2.0/assets/irctcIcon.png",
+      "merchantName": "IRCTC RAILWAY TICKETING IRCTC RAILWAY TICKETING IRCTC RAILWAY TICKETING IRCTC RAILWAY TICKETING",
+      "countryCode": "string",
+      "currency": "string",
+      "theme": {
+        "primaryColor": "string",
+        "themeOption": "string"
+      }
+    },
+    "transactionStatus": "string",
+    "transactionTime": "TimeStamp",
+    "id": "79c1",
+    "count": "1",
+    "size": "1",
+    "status": 1
+  }
+}

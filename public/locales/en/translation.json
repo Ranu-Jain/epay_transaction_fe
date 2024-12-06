@@ -1,0 +1,22 @@
+{
+  "preferred_option": "Preferred Option",
+  "all_payment_option": "All Payment Options",
+  "time_remain": "Time Remaining",
+  "view_detail": "View Details",
+  "pay": "Pay",
+
+  "order": "Order Summary",
+  "total": "Total",
+  "amount": "Amount",
+  "process_fee": "Processing Fee",
+  "gst": "GST",
+
+  "upi": "UPI",
+  "cards": "Cards",
+  "banking": "Internet Banking",
+  "wallet": "Wallet",
+  "sbi_payment": "SBI Branch Payment"
+
+  
+
+}

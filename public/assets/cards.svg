@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="219.553" height="152.817" viewBox="0 0 219.553 152.817">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.521" y1="-0.103" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#673391"/>
+      <stop offset="1" stop-color="#b22382"/>
+    </linearGradient>
+  </defs>
+  <g id="credit-card_2_" data-name="credit-card (2)" transform="translate(3 -77)">
+    <path id="Path_4" data-name="Path 4" d="M190.2,80H23.357A23.384,23.384,0,0,0,0,103.357v100.1a23.384,23.384,0,0,0,23.357,23.357H190.2a23.384,23.384,0,0,0,23.357-23.357v-100.1A23.384,23.384,0,0,0,190.2,80ZM23.357,93.347H190.2a10.022,10.022,0,0,1,10.01,10.01V116.7H13.347V103.357A10.022,10.022,0,0,1,23.357,93.347ZM190.2,213.47H23.357a10.022,10.022,0,0,1-10.01-10.01V130.051H200.206V203.46A10.022,10.022,0,0,1,190.2,213.47Z" stroke="#fff" stroke-width="6" fill="url(#linear-gradient)"/>
+    <path id="Path_5" data-name="Path 5" d="M93.347,324.021H86.674A6.674,6.674,0,0,1,80,317.347v-6.674A6.674,6.674,0,0,1,86.674,304h6.674a6.674,6.674,0,0,1,6.674,6.674v6.674A6.674,6.674,0,0,1,93.347,324.021Z" transform="translate(-46.632 -130.571)" fill="#d9cee1"/>
+  </g>
+</svg>
